@@ -1,0 +1,9 @@
+# Core (development + mock environment + tests)
+numpy>=1.24
+
+# Live backends (Windows, real game) — install on the gaming PC only
+mss
+dxcam
+vgamepad
+pydirectinput
+opencv-python
